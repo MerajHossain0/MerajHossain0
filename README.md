@@ -10,7 +10,7 @@
 
 I am a Front End Web Developer who is passionate about making professional Websites.
 
-##🎖️ Skills:
+## 🎖️ Skills:
 🟢 HTML <br>
 🟡 CSS <br>
 🔴 JAVASCRIPT
