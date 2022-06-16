@@ -5,7 +5,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merajhossain0&label=Profile%20views&color=0e75b6&style=flat" alt="merajhossain0" /> </p>
 
-<p align="left"> <a href="https://twitter.com/merajhossainich" target="blank"><img src="https://img.shields.io/twitter/follow/merajhossainich?logo=twitter&style=for-the-badge" alt="merajhossainich" /></a> </p>
+<p align="left"> <a href="https://twitter.com/meraj_ich" target="blank"><img src="https://img.shields.io/twitter/follow/merajhossainich?logo=twitter&style=for-the-badge" alt="meraj_ich" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
