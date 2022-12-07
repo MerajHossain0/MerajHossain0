@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/banner.png)
+![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/banner-img.png)
 
 <h1 align="center">Hi, I'm Meraj Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
