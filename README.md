@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/banner.png)
 
 <h1 align="center">Hi, I'm Meraj Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **NodeJs**
 
