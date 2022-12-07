@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/meraj2085/meraj2085n/blob/main/images/linkedin-banner2.png)
 <h1 align="center">Hi 👋, I'm Meraj Hossain</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="coding image" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1655308952~exp=1655309552~hmac=529558bc98aa15868179e1988c5aa4e3c4fea7d39130e8d57847f7f3efb7b2d8" width="400px">
