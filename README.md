@@ -12,13 +12,12 @@
 
 <p align="center">
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/html-icon.svg" width="50" height="50/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/css.png" />
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/react.png"/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/node.png"/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/express.png"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/css-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/javaScript-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/react-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/tailwindcss-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/boootstrap-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/nodejs-icon.svg"/>
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
