@@ -1,3 +1,4 @@
+
 ![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/banner-img.png)
 
 - 🌱 I’m currently learning **NodeJs**
@@ -12,6 +13,13 @@
 
 <p align="center">
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/html-icon.svg" width="50" height="50/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/css.png" width="50" height="50/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/JavaScript.png"  width="50" height="50/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/react.png"  width="50" height="50/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/tailwind.png"  width="50" height="50/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/Bootsrap.png"  width="50" height="50/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/node.png"  width="50" height="50/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/express.png"  width="50" height="50/>
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
