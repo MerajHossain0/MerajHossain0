@@ -9,7 +9,7 @@
 - 💬 Ask me about **React, NodeJs, ExpressJs, MongoDB**
 
 ## :computer: Languages and Tools
-<br>
+
 <p align="center">
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/css.png"/>
@@ -19,7 +19,7 @@
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/node.png"/>
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/express.png"/>
-</p><br/>
+</p>
 
 ## :chart_with_upwards_trend: Current Stats
 <br />
