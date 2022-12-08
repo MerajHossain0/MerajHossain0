@@ -11,7 +11,7 @@
 ## :computer: Languages and Tools
 
 <p align="center">
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/html-icon.svg"/>
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/css.png"/>
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/react.png"/>
