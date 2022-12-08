@@ -1,4 +1,3 @@
-
 ![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/banner-img.png)
 
 - 🌱 I’m currently learning **NodeJs**
@@ -13,13 +12,12 @@
 
 <p align="center">
 <img src="https://github.com/meraj2085/meraj2085/blob/main/images/html-icon.svg" width="50" height="50/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/css.png" width="50" height="50/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/JavaScript.png"  width="50" height="50/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/react.png"  width="50" height="50/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/tailwind.png"  width="50" height="50/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/Bootsrap.png"  width="50" height="50/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/node.png"  width="50" height="50/>
-<img src="https://github.com/meraj2085/meraj2085/blob/main/images/icons/express.png"  width="50" height="50/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/css-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/javaScript-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/react-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/tailwindcss-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/boootstrap-icon.svg"/>
+<img src="https://github.com/meraj2085/meraj2085/blob/main/images/nodejs-icon.svg"/>
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
