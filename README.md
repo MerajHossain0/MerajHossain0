@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/banner-img.png)
+![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/cover.png)
 
 - 🌱 I’m currently learning **NodeJs**
 
