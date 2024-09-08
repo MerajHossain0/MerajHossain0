@@ -11,7 +11,7 @@
 ## :computer: Languages and Tools
 
 <p align="center">
-  <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="40" height="40" /></a> <a href="https://redux.js.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" width="40" /></a>   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="40" height="40" /></a> <a href="https://redux.js.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" width="40" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
 
 ## :chart_with_upwards_trend: Current Stats
 
