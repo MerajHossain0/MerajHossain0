@@ -20,6 +20,6 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" style="max-height: 195px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj2085&layout=compact" alt="Most Used Languages" style="max-height: 205px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj2085&layout=compact" alt="Most Used Languages" style="max-height: 305px;"/>
 </div>
 
