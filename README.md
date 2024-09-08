@@ -18,7 +18,7 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj2085&layout=compact" alt="Most Used Languages" />
 </p> -->
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" />
@@ -28,3 +28,4 @@
     </td>
   </tr>
 </table>
+
