@@ -1,5 +1,9 @@
 ![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/cover_3.png)
 
+### Hi there ✋
+
+I am a web developer. I enjoy building websites that are fast, responsive, and accessible. I am passionate about learning new technologies and frameworks. I am currently working with React, Next.js, and Node.js.
+
 <br>
 
   <p align="center">
