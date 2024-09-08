@@ -12,5 +12,5 @@
 
 <br />
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" />
 </p>
