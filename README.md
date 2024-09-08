@@ -2,7 +2,8 @@
 
 ### Hi there ✋
 
-I am a fullstack web developer. I enjoy building websites that are fast, responsive, and accessible. I'm always open to learn new technologies and frameworks. If you can imagine it, I can build it. Let's make something special together! 🚀
+<p align="center">
+I am a fullstack web developer. I enjoy building websites that are fast, responsive, and accessible. I'm always open to learn new technologies and frameworks. If you can imagine it, I can build it. Let's make something special together! </p>
 
 <br>
 
