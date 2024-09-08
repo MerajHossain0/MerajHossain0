@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/cover_2.png)
+![MasterHead](https://github.com/meraj2085/meraj2085/blob/main/cover_3.png)
 
 <br>
 
