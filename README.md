@@ -2,7 +2,7 @@
 
 ### Hi there ✋
 
-I am a web developer. I enjoy building websites that are fast, responsive, and accessible. I am passionate about learning new technologies and frameworks. I am currently working with React, Next.js, and Node.js.
+I am a web developer. I enjoy building websites that are fast, responsive, and accessible. I am passionate about learning new technologies and frameworks. If you can imagine it, I can create it. Let's make something special together! 🚀
 
 <br>
 
