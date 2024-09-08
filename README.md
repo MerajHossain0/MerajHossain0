@@ -18,7 +18,13 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj2085&layout=compact" alt="Most Used Languages" />
 </p> -->
 
-<div style="display: flex; justify-content: center;">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" />
-  <img width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj2085&layout=compact" alt="Most Used Languages" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj2085&layout=compact" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
