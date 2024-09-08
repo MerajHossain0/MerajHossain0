@@ -18,7 +18,7 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj2085&layout=compact" alt="Most Used Languages" />
 </p> -->
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" style="max-height: 105px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj2085&layout=compact" alt="Most Used Languages"/>
 </div>
