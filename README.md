@@ -19,5 +19,5 @@ I am a fullstack web developer. I enjoy building websites that are fast, respons
 
 <br />
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=meraj2085&" alt="meraj2085" />
 </p>
